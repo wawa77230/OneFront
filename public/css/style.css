@@ -1,0 +1,22 @@
+html{
+    box-sizing: border-box;
+}
+li {
+    list-style: none;
+}
+p{
+    margin: 0;
+}
+
+#content{
+    height: auto;
+}
+
+#back-link{
+    height: 40px;
+}
+
+.spinner-border{
+    width: 6rem;
+    height: 6rem;"
+}
